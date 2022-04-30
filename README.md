@@ -1,1 +1,1 @@
-# DevOps
+Automating AWS with Terraform
